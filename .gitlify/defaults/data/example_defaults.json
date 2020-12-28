@@ -1,0 +1,19 @@
+{
+  "valuesInFormData": {
+    "scalar": "value",
+    "array": [
+      {
+        "nested": "nested array value"
+      }
+    ],
+    "object": {
+      "nested": "nested object value"
+    }
+  },
+  "noValuesInFormData": {
+    "array": [
+      {},
+      {}
+    ]
+  }
+}

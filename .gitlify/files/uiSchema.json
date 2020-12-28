@@ -1,0 +1,7 @@
+{
+  "filesAccept": {
+    "ui:options": {
+      "accept": ".pdf"
+    }
+  }
+}
